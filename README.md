@@ -1,5 +1,8 @@
 # cf-warp
 
+> This is a fork with the ability to set a custom location for the configs and a better CLI. Everything else is the same.
+> Install it using `npm i -g 5310:cf-warp`
+
 > A simple cli to get [Warp+](https://blog.cloudflare.com/announcing-warp-plus/) as [WireGuard](https://www.wireguard.com/) configuration
 
 > For people who just want a easy way to get a WireGuard of Warp, just download this file: [https://cf-warp.glitch.me/warp.conf](https://cf-warp.glitch.me/warp.conf).
